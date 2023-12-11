@@ -1,9 +1,3 @@
-/**
- * Template Name: box - v3.10.0
- * Template URL: https://bootstrapmade.com/box-restaurant-template/
- * Author: BootstrapMade.com
- * License: https://bootstrapmade.com/license/
- */
 ;(function () {
   "use strict"
 
